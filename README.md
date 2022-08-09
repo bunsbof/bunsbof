@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nguyenminhcuong2000@gmail.com**
 
-- ⚡ Fun fact **You know most guy brain are all down there, I just want you to blow my mind**
+- ⚡ Fun fact **You know most guys brain are all down there, I just want you to blow my mind**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
