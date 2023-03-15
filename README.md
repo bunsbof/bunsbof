@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bunsbof&label=Profile%20views&color=0e75b6&style=flat" alt="bunsbof" /> </p>
 
-- 🔭 I’m currently working on project portfolio
+- 🔭 I’m currently working on project discord clone
 
 - 🌱 I’m currently learning **React JS & React Native**
 
