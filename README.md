@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React JS & React Native**
 
-- 💬 Ask me about **React JS & React Native, JavaScript,Vue, Laravel, PHP, Unity Engine, C#, Flutter, Dart,**
+- 💬 Ask me about **React JS & React Native, JavaScript, Laravel, PHP, Unity Engine, C#**
 
 - 📫 How to reach me **nguyenminhcuong2000@gmail.com**
 
