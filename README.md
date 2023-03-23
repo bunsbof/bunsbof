@@ -14,8 +14,8 @@ I've been learning to code for 5 years, because I had to complete all the assign
 * 🖥️  See my portfolio at [Bunsbof's Portfolio](http://bunsbof-s-portfolio.vercel.app)
 * ✉️  You can contact me at [nguyenminhcuong2000@gmail.com](mailto:nguyenminhcuong2000@gmail.com)
 * 🚀  I'm currently working on [Discord Cloned app](http://github.com/bunsbof/project_discord_cloned)
-* 🧠  I'm learning everything about JavaScript, and C++
-* 🤝  I'm open to collaborating on like I said everything about JavaScript and C++
+* 🧠  I'm learning everything about JavaScript, and C++ (Unreal Engine)
+* 🤝  I'm open to collaborating on like I said everything about JavaScript and C++ (Unreal Engine)
 * ⚡  I like reading books, if you have any good books please recommend it for me (mechanical programming, please). I also like to read manga and anime, but don't tell anyone 🙈
 
 ### Skills
