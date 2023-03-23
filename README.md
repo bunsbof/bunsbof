@@ -1,8 +1,5 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
-![View Counter](https://gpvc.arturio.dev/TurnipGuy30)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bunsbof&label=Profile%20views&color=0e75b6&style=flat" alt="bunsbof" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bunsbof" alt="bunsbof" /></a> </p>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Celine (Chau)
 =====================================================================================================================================
