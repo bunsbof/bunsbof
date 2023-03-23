@@ -6,13 +6,17 @@ Web & Game Developer
 
 I've been learning to code for 5 years, after switching careers. I started with HTML, but have really found a passion for all of the development frontend & backend...
 
-*   🌍  I'm based in Viet Nam
-*   🖥️  See my portfolio at [Bunsbof's Portfolio](http://bunsbof-s-portfolio.vercel.app)
-*   ✉️  You can contact me at [nguyenminhcuong2000@gmail.com](mailto:nguyenminhcuong2000@gmail.com)
-*   🚀  I'm currently working on [Discord Cloned app](http://github.com/bunsbof/project_discord_cloned)
-*   🧠  I'm learning everything about javascript, and C++
-*   🤝  I'm open to collaborating on like I said everything about javascript and C++
-*   ⚡  I like reading books, if you have any good books please recommend it for me (mechanical programming, please), I also like to read manga and anime, but don't tell anyone### Skills 
+* 🌍  I'm based in Viet Nam
+* 🖥️  See my portfolio at [Bunsbof's Portfolio](http://bunsbof-s-portfolio.vercel.app)
+* ✉️  You can contact me at [nguyenminhcuong2000@gmail.com](mailto:nguyenminhcuong2000@gmail.com)
+* 🚀  I'm currently working on [Discord Cloned app](http://github.com/bunsbof/project_discord_cloned)
+* 🧠  I'm learning everything about javascript, and C++
+* 🤝  I'm open to collaborating on like I said everything about javascript and C++
+* ⚡  I like reading books, if you have any good books please recommend it for me (mechanical programming, please), I also like to read manga and anime, but don't tell anyone
+
+### Skills
+
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
@@ -50,23 +54,18 @@ I've been learning to code for 5 years, after switching careers. I started with 
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 <a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://codesandbox.io/u/bunsbof" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.facebook.com/MonStrumEmpires" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/bunsbof" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/c%C6%B0%E1%BB%9Dng-nguy%E1%BB%85n-944a84269/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.stackoverflow.com/users/users/17157091/the-untitled" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/MrBunsBof" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/bunsbof"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=bunsbof&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-                      href="http://www.github.com/bunsbof"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=bunsbof&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/bunsbof" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunsbof&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://codesandbox.io/u/bunsbof" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/MonStrumEmpires" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/bunsbof" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/c%C6%B0%E1%BB%9Dng-nguy%E1%BB%85n-944a84269/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/users/17157091/the-untitled" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/MrBunsBof" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/bunsbof"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bunsbof&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/bunsbof"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=bunsbof&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/bunsbof" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunsbof&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
