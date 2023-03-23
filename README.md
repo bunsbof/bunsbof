@@ -1,5 +1,5 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
-![View Counter](https://gpvc.arturio.dev/[tag])
+![View Counter](https://gpvc.arturio.dev/TurnipGuy30)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Celine (Chau)
 =====================================================================================================================================
