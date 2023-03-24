@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web & Game Developer
 --------------------
 
-I've been learning to code for 5 years, because I had to complete all the assignments in college (and I hated it 😥) I couldn't do the things I enjoyed (real coding stuff). I can tell you guys what I've studied and how high my grades are but please don't ask me about it I'm easily triggered 🥊. I can say my years of JavaScript experience is only about 3, and I start by doing some freelance jobs to wrap up the knowledge, you know "Travel broadens the mind"
+I have been learning JavaScript for 3 years, and started doing a few freelance projects to gain more experience for myself, although my main programming language is JavaScript, I am always willing to learn other languages to improve my skills. try programming or project knowledge
 
 
 * 🌍  I'm based in Viet Nam
