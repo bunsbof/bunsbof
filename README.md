@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web & Game Developer
 --------------------
 
-I have been learning JavaScript for 3 years, and started doing a few freelance projects to gain more experience for myself, although my main programming language is JavaScript, I am always willing to learn other languages to improve my skills. try programming or project knowledge
+I have been learning JavaScript for 3 years, and started doing a few freelance projects to gain more experience for myself, although my main programming language is JavaScript, I am always willing to learn other languages to improve my skills or project knowledge
 
 
 * 🌍  I'm based in Viet Nam
