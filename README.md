@@ -7,6 +7,7 @@ Web & Game Developer
 --------------------
 
 I have been learning JavaScript for 3 years, and started doing a few freelance projects to gain more experience for myself, although my main programming language is JavaScript, I am always willing to learn other languages to improve my skills or project knowledge
+
 Technologies: Mongodb, Express, React, Node.js, Laravel, Unreal Engine
 
 
