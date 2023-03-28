@@ -1,23 +1,18 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bunsbof&label=Profile%20views&color=0e75b6&style=flat" alt="bunsbof" /> </p>
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Celine (Chau)
 =====================================================================================================================================
 
 Web & Game Developer
 --------------------
 
-I have been learning JavaScript for 3 years, and started doing a few freelance projects to gain more experience for myself, although my main programming language is JavaScript, I am always willing to learn other languages to improve my skills or project knowledge
-
-Technologies: Mongodb, Express, React, Node.js, Laravel, Unreal Engine
-
+Hi, my name is Cuong, but you can call me Chau or Celine. I love learning about website and game development technologies
 
 * 🌍  I'm based in Viet Nam
 * 🖥️  See my portfolio at [Bunsbof's Portfolio](http://bunsbof-s-portfolio.vercel.app)
 * ✉️  You can contact me at [nguyenminhcuong2000@gmail.com](mailto:nguyenminhcuong2000@gmail.com)
 * 🚀  I'm currently working on [Discord Cloned app](http://github.com/bunsbof/project_discord_cloned)
-* 🧠  I'm learning everything about JavaScript, and C++ (Unreal Engine)
-* 🤝  I'm open to collaborating on something fun, cross-functional program team 🕵️
-* ⚡  I like reading books, if you have any good books please recommend it for me (mechanical programming, please). I also like to read manga and anime, but don't tell anyone 🙈
+* 🧠  I'm learning everything about javascript, and C++
+* 🤝  I'm open to collaborating on like I said everything about javascript and C++
+* ⚡  I like reading books, if you have any good books please recommend it for me (mechanical programming, please), I also like to read manga and anime, but don't tell anyone
 
 ### Skills
 
@@ -73,4 +68,4 @@ Technologies: Mongodb, Express, React, Node.js, Laravel, Unreal Engine
 
 <a href="http://www.github.com/bunsbof"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=bunsbof&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/bunsbof" align="left">![Bunsbof's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)</a>
+<a href="https://github.com/bunsbof" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunsbof&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
