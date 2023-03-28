@@ -73,4 +73,4 @@ Technologies: Mongodb, Express, React, Node.js, Laravel, Unreal Engine
 
 <a href="http://www.github.com/bunsbof"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=bunsbof&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/bunsbof" align="left">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)</a>
+<a href="https://github.com/bunsbof" align="left">![Bunsbof's GitHub stats](https://github-readme-stats.vercel.app/api?username=bunsbof&show_icons=true&theme=dark)</a>
