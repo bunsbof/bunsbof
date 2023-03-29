@@ -62,8 +62,6 @@ Hi, my name is Cuong, but you can call me Chau or Celine. I love learning about 
 
 ### Badges
 
-[![Image of my_github_profile_views_counter](https://github.com/formidablae/my_github_profile_views_counter/blob/master/svg/421021519/badge.svg)](https://github.com/formidablae/my_github_profile_views_counter/blob/master/readme/421021519/week.md)
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/bunsbof"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bunsbof&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
