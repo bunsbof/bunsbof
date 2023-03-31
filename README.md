@@ -1,6 +1,3 @@
-
-![monkeytype-record](https://user-images.githubusercontent.com/62291547/229108676-7800b37c-8be0-4daf-9c01-b2b8c777f3d9.jpg)
-
 ![](https://komarev.com/ghpvc/?username=bunsbof&color=blueviolet)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Celine (Chau)
@@ -72,3 +69,4 @@ Hi, my name is Cuong, but you can call me Chau or Celine. I love learning about 
 <a href="http://www.github.com/bunsbof"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bunsbof&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/bunsbof"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=bunsbof&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+![monkeytype-record](https://user-images.githubusercontent.com/62291547/229108676-7800b37c-8be0-4daf-9c01-b2b8c777f3d9.jpg)
