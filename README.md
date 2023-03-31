@@ -1,3 +1,6 @@
+
+![monkeytype-record](https://user-images.githubusercontent.com/62291547/229108676-7800b37c-8be0-4daf-9c01-b2b8c777f3d9.jpg)
+
 ![](https://komarev.com/ghpvc/?username=bunsbof&color=blueviolet)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Celine (Chau)
