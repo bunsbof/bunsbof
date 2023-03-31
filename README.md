@@ -69,6 +69,5 @@ Hi, my name is Cuong, but you can call me Chau or Celine. I love learning about 
 <a href="http://www.github.com/bunsbof"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bunsbof&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/bunsbof"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=bunsbof&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bunsbof&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bunsbof&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 ![recordmonkey](https://user-images.githubusercontent.com/62291547/229111094-d7be4bc7-5e15-4862-9305-f996957b6e20.jpg)
