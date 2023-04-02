@@ -1,8 +1,15 @@
-<div style="float: right;">
+<div style="text-align: right;">
   <a href="https://app.daily.dev/bunsbof">
     <img src="https://api.daily.dev/devcards/f3b69a244af644d487b40e7bb8003def.png?r=a5a" width="400" alt="The Untitled's Dev Card"/>
   </a>
 </div>
+
+<style>
+  div[style*="text-align:right"] {
+    float: right;
+  }
+</style>
+
 
 
 ![](https://komarev.com/ghpvc/?username=bunsbof&color=blueviolet)
