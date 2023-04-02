@@ -1,9 +1,3 @@
-<p align="right">
-   <a href="https://app.daily.dev/bunsbof" align="right">
-   <img src="https://api.daily.dev/devcards/f3b69a244af644d487b40e7bb8003def.png?r=a5a" width="400" alt="The Untitled's Dev Card"/>
-   </a>
-</p>
-
 ![](https://komarev.com/ghpvc/?username=bunsbof&color=blueviolet)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Earther
@@ -64,7 +58,7 @@ Hi, my name is Cuong, but you can call me Chau or Celine. I love learning about 
 </p>
 
 
-### Socials
+### Socials <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 
 <p align="left"> <a href="https://codesandbox.io/u/bunsbof" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/MonStrumEmpires" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/bunsbof" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/c%C6%B0%E1%BB%9Dng-nguy%E1%BB%85n-944a84269/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/users/17157091/the-untitled" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/MrBunsBof" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
