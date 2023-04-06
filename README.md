@@ -12,7 +12,7 @@ Hi, my name is Cuong, but you can call me Chau or Celine. I love learning about 
 * 🌍  I'm based in Viet Nam
 * 🖥️  See my portfolio at [Bunsbof's Portfolio](http://bunsbof-s-portfolio.vercel.app)
 * ✉️  You can contact me at [nguyenminhcuong2000@gmail.com](mailto:nguyenminhcuong2000@gmail.com)
-* 🚀  I'm currently working on [Discord Cloned app](http://github.com/bunsbof/project_discord_cloned)
+* 🚀  I'm currently working on [CEH Courses](http://example.com)
 * 🧠  I'm learning everything about javascript, and C++
 * 🤝  I'm open to collaborating on cyber security practice, game & web development
 * ⚡  I like reading books, if you have any good books please recommend it for me (mechanical programming, please), I also like to read manga and anime, but don't tell anyone
