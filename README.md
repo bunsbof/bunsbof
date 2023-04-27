@@ -72,4 +72,5 @@ Hi, my name is Cuong, but you can call me Chau or Celine. I love learning about 
 
 ### <b>My Other Skill</b> <img src="https://media.giphy.com/media/26DN81TqLPIzBlksw/giphy.gif" width="50">
 
-![recordmonkey](https://user-images.githubusercontent.com/62291547/229111094-d7be4bc7-5e15-4862-9305-f996957b6e20.jpg)
+![image](https://user-images.githubusercontent.com/62291547/234822276-51ca8bf5-befb-4b83-9614-d8222018b31e.png)
+
