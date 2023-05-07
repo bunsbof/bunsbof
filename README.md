@@ -73,5 +73,5 @@ Hi, my name is Cuong, but you can call me Chau or Celine. I love learning about 
 ### <b>My Other Skill</b> <img src="https://media.giphy.com/media/26DN81TqLPIzBlksw/giphy.gif" width="50">
 
 ![image](https://user-images.githubusercontent.com/62291547/234822276-51ca8bf5-befb-4b83-9614-d8222018b31e.png)
-<p align="center">Pst!! I'm not typing that fast ༼ つ ◕_◕ ༽つ, I'm using bot and on my way creating an extension for more control on it (☞ﾟヮﾟ)☞, in case if you ask, my actual typing speed is 254WPM ☜(ﾟヮﾟ☜)</p>
+<p align="center">Pst!! I'm not typing that fast ༼ つ ◕_◕ ༽つ, I'm using bot, techniquely it's an extension created by me (☞ﾟヮﾟ)☞, in case if you ask, my actual typing speed is 254WPM, in other cases if you ask, nope I'll never show that extension for you ☜(ﾟヮﾟ☜)</p>
 
