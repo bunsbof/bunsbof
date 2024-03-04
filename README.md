@@ -12,10 +12,10 @@ Hi, my name is Cuong, but you can call me Chau or Celine. I love learning about 
 
 * 🌍  I'm based in Viet Nam
 * 🖥️  See my portfolio at [Bunsbof's Portfolio](http://bunsbof-s-portfolio.vercel.app)
-* ✉️  You can contact me at [nguyenminhcuong2000@gmail.com](mailto:nguyenminhcuong2000@gmail.com)
-* 🚀  I'm currently working on [Monkey Type Cloned](https://github.com/bunsbof/monkeytype_cloned)
-* 🧠  I'm learning everything about javascript, and C++
-* 🤝  I'm open to collaborating on cyber security practice, game & web development
+* ✉️  You can contact me at [jiro.chilling@gmail.com](mailto:jiro.chilling@gmail.com)
+* 🚀  I'm currently working on [Tappy](https://github.com/bunsbof/tappy)
+* 🧠  I'm learning everything about C#, C/C++, GDScript
+* 🤝  I'm open to collaborating on cyber security practice, game, reverse engineer
 * ⚡  I like reading books, if you have any good books please recommend it for me (mechanical programming, please), I also like to read manga and anime, but don't tell anyone
 
 ### <b>Skills</b> <img src="https://media.giphy.com/media/xThtaoFef8EOe2J5XG/giphy.gif" width="50">
