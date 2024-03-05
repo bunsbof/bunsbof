@@ -10,7 +10,7 @@ Imma Web & Game Developer
 
 Hi, my name is Chau. I love learning about game development technologies
 
-* 🌍  I'm based in Viet Nam
+* 🌍  I'm based in Canada
 * 🖥️  See my portfolio at [Bunsbof's Portfolio](http://bunsbof-s-portfolio.vercel.app)
 * ✉️  You can contact me at [jiro.chilling@gmail.com](mailto:jiro.chilling@gmail.com)
 * 🚀  I'm currently working on [Tappy](https://github.com/bunsbof/tappy)
