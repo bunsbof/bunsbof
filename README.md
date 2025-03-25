@@ -8,7 +8,7 @@ Greeting ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 Imma Web & Game Developer
 --------------------
 
-Hi, my name is Chau. I love learning about game development technologies
+Hi, my name is Cuong. I love learning about game development technologies
 
 * 🌍  I'm based in Canada
 * 🖥️  See my portfolio at [Bunsbof's Portfolio](http://bunsbof-s-portfolio.vercel.app)
